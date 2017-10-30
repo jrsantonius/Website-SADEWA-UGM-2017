@@ -1,0 +1,1 @@
+Cara membuka aplikasi nya yaitu : Timer_Sadewa\Timer_Sadewa\bin\Debug\Timer_Sadewa (yang tipenya Application)
